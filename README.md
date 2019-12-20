@@ -21,7 +21,7 @@ There are two main folders:
 2. Nao_prediction.py
 3. train.py
 
-## Temporary link for downloading SRIN
+## A Temporary Link for Downloading SRIN-DATASET
 Click in the temporary link below to download SRIN-DATASET.tar.xz with size 1.2GB that contains the forementioned folders.
 
 https://www.dropbox.com/s/esjti0xr5iw0znk/SRIN-DATASET.tar.xz?dl=1
