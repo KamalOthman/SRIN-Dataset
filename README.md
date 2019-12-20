@@ -12,10 +12,10 @@ There are two main folders:
 2. all_data_for_training_evaluating: contains folders for each class after resizing and augmenting images.
 3. Nao_images_for_testing: has all captured images by Nao humanoid robot.
 4. our_trained_model: consists of 4 files: 
-    1) fineT_vgg16_weights.h5 
+    1) weights.h5 
     2) model.json 
-    3) pipeline_accuracy.png
-    4) pipeline_loss.png
+    3) accuracy.png
+    4) loss.png
 ### Code Files
 1. img_pred.py
 2. Nao_prediction.py
