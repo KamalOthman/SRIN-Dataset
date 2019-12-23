@@ -25,3 +25,6 @@ There are two main folders:
 Click in the temporary link below to download SRIN-DATASET.tar.xz with size 1.2GB that contains the forementioned folders.
 
 [Link to download SRIN-DATASET](https://www.dropbox.com/s/esjti0xr5iw0znk/SRIN-DATASET.tar.xz?dl=1)
+
+## Corresponding paper and citation
+They will be added after publishing.
